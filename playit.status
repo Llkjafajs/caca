@@ -1,394 +1,262 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722486082719 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722486498269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486085805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486501395 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486088895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486504480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486091984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486507566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486095071 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486510649 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486098158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486513733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486101245 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486516817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486104341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486519899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722486113512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486522984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486116617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486526069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486119699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486529192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486122823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486532274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486125924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486535378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486129016 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486538497 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486132102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486541626 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486135188 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486544711 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486138280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486547799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486141363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486550886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486144450 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486553972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486147545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486557066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486150648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486560148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486153750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486563238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486156866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486566366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486159970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486569490 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486163053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486572573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486166141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486575658 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486169239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486578743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486172345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486581824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486175449 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486584907 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486178571 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486587996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486181680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486591111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486184781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486594196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486187867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486597290 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486190949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486600378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486194038 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486603499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486197129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486606630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486200228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486609751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486203335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486612827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486206442 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486615912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486209565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486618998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486212673 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486622075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486215775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486625208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486218861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486628296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486221947 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486225058 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486228155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486231237 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486234345 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486237450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486240554 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722486249755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486252830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486255921 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486259010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486262094 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486265179 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486268262 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486271384 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486274507 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486277596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486280682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486283767 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486286849 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486289934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-ie-households.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-door-meters.gl.at.ply.gg:3140 => 127.0.0.1:3140 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722486293029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722486631381 tunnel running, 2 tunnels registered
 
 
 TUNNELS
